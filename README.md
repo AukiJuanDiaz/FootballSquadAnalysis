@@ -8,8 +8,8 @@ My favourite visualisations are shown here:
 
 
 ## Charts
-![Investment in Bundesliga clubs](/home/hauke/Documents/Kunst_und_Krempel/Managerspiel/images/investment_in_clubs.png)
+![Investment in Bundesliga clubs](images/investment_in_clubs.png)
 
-![Symmetric Heatmap of overlap of participants investment](/home/hauke/Documents/Kunst_und_Krempel/Managerspiel/images/heatmap_overlap_between_participants.png)
-![Market value and names of the exclusive players of each participant](/home/hauke/Documents/Kunst_und_Krempel/Managerspiel/images/exclusive_players_per_participant.png)
+![Symmetric Heatmap of overlap of participants investment](images/heatmap_overlap_between_participants.png)
+![Market value and names of the exclusive players of each participant](images/exclusive_players_per_participant.png)
 
